@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-    Hello ..This is going to be my first fullstack project
+    Going to learn contex and routes...I will be back...
     </>
   )
 }
