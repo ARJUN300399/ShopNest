@@ -1,9 +1,14 @@
+import Footer from "./components/footer/Footer"
+import Header from "./components/header/Header"
+import Home from "./components/home/Home"
 
 function App() {
 
   return (
     <>
-    Going to learn contex and routes...I will be back...
+    <Header/>
+    <Home/>
+    <Footer/>
     </>
   )
 }
